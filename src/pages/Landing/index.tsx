@@ -1,13 +1,19 @@
 import React from "react";
-import { HeroSection, Nav } from "../../components";
+import { FeatureSection, HeroSection, Nav } from "../../components";
 
 const Landing: React.FC = () => {
   return (
     <div className="landing-container justify-center h-screen bg-white">
-        <Nav/>
+      <div>
+        <Nav />
         <HeroSection />
+        <FeatureSection />
+      </div>
+      <div>
+        
+      </div>
     </div>
-);
+  );
 };
 
 export default Landing;
