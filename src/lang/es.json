@@ -1,0 +1,22 @@
+{
+  "App.name": "LaslesVPN",
+  "Nav.sectionLink.about": "Sobre",
+  "Nav.sectionLink.features": "Caracteristicas",
+  "Nav.sectionLink.pricing": "Precios",
+  "Nav.sectionLink.testimonials": "Testimonios",
+  "Nav.sectionLink.help": "Ayuda",
+  "Nav.auth.signIn": "Iniciar Sesión",
+  "Nav.auth.signUp": "Inscribirse",
+  "Hero.title": "Quiere que todo sea fácil con",
+  "Hero.textTitle": "Proporcionar una red para todas sus necesidades con facilidad y diversión usando Lasles VPN descubrir características interesantes de nosotros",
+  "Hero.btnText": "Comenzar",
+  "Hero.statsUser": "Usuario",
+  "Hero.statsLocations": "Ubicaciones",
+  "Hero.statsServers": "Servidores",
+  "Feature.title": "Ofrecemos muchas funciones que puede utilizar",
+  "Feature.textTitle": "Usted puede explorar las características que ofrecemos con el fondo y tienen sus propias funciones cada característica.",
+  "Feature.featureOne": "Potente protección en línea",
+  "Feature.featureTwo": "Internet sin fronteras",
+  "Feature.featureThree": "VPN sobrealimentada",
+  "Feature.featureFour": "Sin plazos específicos"
+}
