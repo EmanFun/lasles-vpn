@@ -18,5 +18,18 @@
   "Feature.featureOne": "Powerful online protection",
   "Feature.featureTwo": "Internet without borders",
   "Feature.featureThree": "Supercharged VPN",
-  "Feature.featureFour": "No specific time limits"
+  "Feature.featureFour": "No specific time limits",
+  "Pricing.title": "Choose Your Plan",
+  "Pricing.textTitle": "Let's choose the package that is best for you and explore it happily and cheerfully.",
+  "Pricing.freePlan": "Free Plan",
+  "Pricing.standardPlan": "Standard Plan",
+  "Pricing.premiumPlan": "Premium Plan",
+  "Pricing.featureOne": "Unlimited Bandwidth",
+  "Pricing.featureTwo": "Encrypted Connection",
+  "Pricing.featureThree": "Yes Traffic Logs",
+  "Pricing.featureFour": "No Traffic Logs",
+  "Pricing.featureFive": "Works on All Devices",
+  "Pricing.featureSix": "Connect Anywhere",
+  "Pricing.featureSeven": "Get New Features",
+  "Pricing.btnPlan": "Select"
 }

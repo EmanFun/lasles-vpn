@@ -18,5 +18,19 @@
   "Feature.featureOne": "Potente protección en línea",
   "Feature.featureTwo": "Internet sin fronteras",
   "Feature.featureThree": "VPN sobrealimentada",
-  "Feature.featureFour": "Sin plazos específicos"
+  "Feature.featureFour": "Sin plazos específicos",
+  "Pricing.title": "Elija su plan",
+  "Pricing.textTitle": "Elijamos el paquete que más le convenga y explorémoslo con alegría.",
+  "Pricing.freePlan": "Plan gratuito",
+  "Pricing.free": "Gratuito",
+  "Pricing.standardPlan": "Plan estándar",
+  "Pricing.premiumPlan": "Plan Premium",
+  "Pricing.featureOne": "Ancho de banda ilimitado",
+  "Pricing.featureTwo": "Conexión cifrada",
+  "Pricing.featureThree": "Con Registros de tráfico",
+  "Pricing.featureFour": "Sin Registros de tráfico",
+  "Pricing.featureFive": "Funciona en todos los dispositivos",
+  "Pricing.featureSix": "Conéctate en cualquier lugar",
+  "Pricing.featureSeven": "Nuevas funciones",
+    "Pricing.btnPlan": "Seleccionar"
 }

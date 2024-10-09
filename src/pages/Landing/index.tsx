@@ -1,5 +1,5 @@
 import React from "react";
-import { FeatureSection, HeroSection, Nav } from "../../components";
+import { FeatureSection, HeroSection, Nav, PricingSection } from "../../components";
 
 const Landing: React.FC = () => {
   return (
@@ -9,7 +9,8 @@ const Landing: React.FC = () => {
         <HeroSection />
         <FeatureSection />
       </div>
-      <div>
+      <div className="bg-gradient-to-b from-[#fafafa] to-white h-full">
+        <PricingSection />
         
       </div>
     </div>
