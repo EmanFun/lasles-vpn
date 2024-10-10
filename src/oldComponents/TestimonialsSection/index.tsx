@@ -1,5 +1,5 @@
-import React from "react";
-import { BiLeftArrowAlt, BiRightArrowAlt, BiSolidStar } from "react-icons/bi";
+//import React from "react";
+//import { BiLeftArrowAlt, BiRightArrowAlt, BiSolidStar } from "react-icons/bi";
 
 function TestimonialsSections() {
   return (
