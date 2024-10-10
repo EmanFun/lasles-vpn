@@ -6,7 +6,7 @@ function SubscribeSection() {
   const intl = useIntl();
   return (
     <div className="relative bottom-[120px] flex justify-center">
-      <div className="absolute mx-10 inset-10  w-auto h-[300px] bg-gradient-to-b from-[#b4b2b2] to-[#ffffff] blur-xl bg-opacity-10 rounded-[30px]"></div>
+      <div className="absolute sm:mx-10 inset-10  w-auto h-[300px] bg-gradient-to-b from-[#b4b2b2] to-[#ffffff] blur-xl bg-opacity-10 rounded-[30px]"></div>
       <div className="relative m-8 lg:w-[70%] h-[230px] flex items-center justify-between bg-[#FFFFFF] rounded-xl p-6">
         <div>
           <SectionTitle
