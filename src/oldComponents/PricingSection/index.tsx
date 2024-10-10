@@ -24,19 +24,19 @@ function PricingSection() {
           </p>
           <ul className="font-medium text-sm space-y-4">
             <li className="flex items-center gap-4">
-              <BiCheck />
+              <BiCheck color={"#2FAB73"} size={25}/>
               {intl.formatMessage({ id: "Pricing.featureOne" })}
             </li>
             <li className="flex items-center gap-4">
-              <BiCheck />
+              <BiCheck color={"#2FAB73"} size={25}/>
               {intl.formatMessage({ id: "Pricing.featureTwo" })}
             </li>
             <li className="flex items-center gap-4">
-              <BiCheck />
+              <BiCheck color={"#2FAB73"} size={25}/>
               {intl.formatMessage({ id: "Pricing.featureFour" })}
             </li>
             <li className="flex items-center gap-4">
-              <BiCheck />
+              <BiCheck color={"#2FAB73"} size={25}/>
               {intl.formatMessage({ id: "Pricing.featureFive" })}
             </li>
           </ul>
@@ -48,7 +48,7 @@ function PricingSection() {
             <div className="relative lg:w-[180px]">
               <div className="absolute inset-0 top-5 bg-gradient-to-b from-[#5a1717] to-[#ffffff] blur-xl bg-opacity-10 rounded-[30px]"></div>
               <button className="relative lg:w-[180px] px-8 py-2 rounded-xl bg-secondary text-white">
-                {intl.formatMessage({ id: "Pricing.btnSelect" })}
+                {intl.formatMessage({ id: "Pricing.btnPlan" })}
               </button>
             </div>
           </div>
@@ -60,23 +60,23 @@ function PricingSection() {
           </p>
           <ul className="font-medium text-sm space-y-4">
             <li className="flex items-center gap-4 ">
-              <BiCheck />
+              <BiCheck color={"#2FAB73"} size={25}/>
               {intl.formatMessage({ id: "Pricing.featureOne" })}
             </li>
             <li className="flex items-center gap-4 ">
-              <BiCheck />
+              <BiCheck color={"#2FAB73"} size={25}/>
               {intl.formatMessage({ id: "Pricing.featureTwo" })}
             </li>
             <li className="flex items-center gap-4 ">
-              <BiCheck />
+              <BiCheck color={"#2FAB73"} size={25}/>
               {intl.formatMessage({ id: "Pricing.featureThree" })}
             </li>
             <li className="flex items-center gap-4 ">
-              <BiCheck />
+              <BiCheck color={"#2FAB73"} size={25}/>
               {intl.formatMessage({ id: "Pricing.featureFive" })}
             </li>
             <li className="flex items-center gap-4 ">
-              <BiCheck />
+              <BiCheck color={"#2FAB73"} size={25}/>
               {intl.formatMessage({ id: "Pricing.featureSix" })}
             </li>
           </ul>
@@ -87,7 +87,7 @@ function PricingSection() {
             <div className="relative lg:w-[180px]">
               <div className="absolute inset-0 top-5 bg-gradient-to-b from-[#5a1717] to-[#ffffff] blur-xl bg-opacity-10 rounded-[30px]"></div>
               <button className="relative lg:w-[180px] px-8 py-2 rounded-xl bg-secondary text-white">
-                {intl.formatMessage({ id: "Pricing.btnSelect" })}
+                {intl.formatMessage({ id: "Pricing.btnPlan" })}
               </button>
             </div>
           </div>
@@ -99,27 +99,27 @@ function PricingSection() {
           </p>
           <ul className="flex-col font-medium text-sm space-y-4">
             <li className="flex items-center gap-4 ">
-              <BiCheck />
+              <BiCheck color={"#2FAB73"} size={25}/>
               {intl.formatMessage({ id: "Pricing.featureOne" })}
             </li>
             <li className="flex items-center gap-4 ">
-              <BiCheck />
+              <BiCheck color={"#2FAB73"} size={25}/>
               {intl.formatMessage({ id: "Pricing.featureTwo" })}
             </li>
             <li className="flex items-center gap-4 ">
-              <BiCheck />
+              <BiCheck color={"#2FAB73"} size={25}/>
               {intl.formatMessage({ id: "Pricing.featureThree" })}
             </li>
             <li className="flex items-center gap-4 ">
-              <BiCheck />
+              <BiCheck color={"#2FAB73"} size={25}/>
               {intl.formatMessage({ id: "Pricing.featureFive" })}
             </li>
             <li className="flex items-center gap-4 ">
-              <BiCheck />
+              <BiCheck color={"#2FAB73"} size={25}/>
               {intl.formatMessage({ id: "Pricing.featureSix" })}
             </li>
             <li className="flex items-center gap-4 ">
-              <BiCheck />
+              <BiCheck color={"#2FAB73"} size={25}/>
               {intl.formatMessage({ id: "Pricing.featureSeven" })}
             </li>
           </ul>
@@ -130,7 +130,7 @@ function PricingSection() {
             <div className="relative lg:w-[180px]">
               <div className="absolute inset-0 top-5 bg-gradient-to-b from-[#5a1717] to-[#ffffff] blur-xl bg-opacity-10 rounded-[30px]"></div>
               <button className="relative lg:w-[180px] px-8 py-2 rounded-xl bg-secondary text-white">
-                {intl.formatMessage({ id: "Pricing.btnSelect" })}
+                {intl.formatMessage({ id: "Pricing.btnPlan" })}
               </button>
             </div>
           </div>

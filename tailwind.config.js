@@ -20,7 +20,8 @@ export default {
         secondary: "#f53838",
         statBg: "#FFECEC",
         layerBlur: "#ededee",
-        cardBorder: "DDDDDD"
+        cardBorder: "#DDDDDD",
+        checkColor: "#2FAB73",
       },
       fontFamily: {
         rubik: ["Rubik", "sans-serif"],
