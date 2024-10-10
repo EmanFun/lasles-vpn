@@ -19,7 +19,9 @@ export default {
       colors: {
         secondary: "#f53838",
         statBg: "#FFECEC",
-        layerBlur: "#ededee"
+        layerBlur: "#ededee",
+        cardBorder: "#DDDDDD",
+        checkColor: "#2FAB73",
       },
       fontFamily: {
         rubik: ["Rubik", "sans-serif"],
