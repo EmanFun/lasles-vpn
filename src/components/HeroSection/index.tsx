@@ -21,17 +21,13 @@ function HeroSection() {
           </p>
           <div className="relative w-[150px] xl:w-[250px] m-4">
             <div className="absolute inset-0 top-10 bg-gradient-to-b from-[#5a1717] to-[#ffffff] blur-xl bg-opacity-10 rounded-[30px]"></div>
-            <button className="relative w-[150px] md:w-[250px] py-5 rounded-xl bg-secondary text-white">
+            <button className="relative w-[150px] md:w-[250px] py-5 rounded-xl bg-secondary text-white transition-all duration-300 transform hover:scale-[1.1]">
               {intl.formatMessage({ id: "Hero.btnText" })}
             </button>
           </div>
         </div>
         <div>
-          <img
-            src={Illustration}
-            alt="illustration hero"
-
-          />
+          <img src={Illustration} alt="illustration hero" />
         </div>
       </div>
       <div className="w-full lg:flex lg:justify-center px-8">
@@ -40,10 +36,10 @@ function HeroSection() {
           <div className="absolute inset-0 top-10 h-[200px] bg-gradient-to-b from-[#b4b2b2] to-[#ffffff] blur-xl bg-opacity-10 rounded-[30px]"></div>
 
           {/* Stats Content */}
-          <div className="stat-cards  flex items-center lg:justify-between sm:justify-evenly h-[130px] relative z-10 lg:gap-10 bg-white lg:p-4 lg:m-2 rounded-lg">
+          <div className="stat-cards  flex items-center lg:justify-between sm:justify-evenly h-[130px] relative z-10  lg:gap-10 bg-white lg:p-4 lg:m-2 rounded-lg">
             {/* Stat 1 */}
-            <div className="stat sm:pr-5 lg:w-[360px] border-r-2 justify-center flex items-center lg:gap-10 gap-4">
-              <div className="w-[55px] h-[55px] bg-statBg flex items-center justify-center rounded-full">
+            <div className="stat sm:pr-5 sm:w-[160px] lg:w-[360px] border-r-2 justify-center flex items-center lg:gap-10 gap-2">
+              <div className="w-[55px] h-[55px] bg-statBg flex items-center justify-center rounded-full transition-all duration-300 transform hover:scale-[1.5]">
                 <BiSolidUser size={20} color="#F53838" />
               </div>
               <div>
@@ -53,8 +49,8 @@ function HeroSection() {
             </div>
 
             {/* Stat 2 */}
-            <div className="stat sm:pr-5 lg:w-[360px] flex border-r-2 justify-center items-center lg:gap-10 gap-4">
-              <div className="w-[55px] h-[55px] bg-statBg flex items-center justify-center rounded-full">
+            <div className="stat sm:pr-5 sm:w-[160px] lg:w-[360px] flex border-r-2 justify-center items-center lg:gap-10 gap-2">
+              <div className="w-[55px] h-[55px] bg-statBg flex items-center justify-center rounded-full transition-all duration-300 transform hover:scale-[1.5]">
                 <IoLocationSharp size={20} color="#F53838" />
               </div>
               <div>
@@ -64,8 +60,8 @@ function HeroSection() {
             </div>
 
             {/* Stat 3 */}
-            <div className="stat lg:w-[360px] flex justify-center items-center lg:gap-10 gap-4">
-              <div className="w-[55px] h-[55px] bg-statBg flex items-center justify-center rounded-full">
+            <div className="stat sm:w-[160px] lg:w-[360px] flex justify-center items-center lg:gap-10 gap-2">
+              <div className="w-[55px] h-[55px] bg-statBg flex items-center justify-center rounded-full transition-all duration-300 transform hover:scale-[1.5]">
                 <BiSolidServer size={20} color="#F53838" />
               </div>
               <div>
