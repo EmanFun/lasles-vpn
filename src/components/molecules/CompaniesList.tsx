@@ -40,49 +40,49 @@ function CompaniesList() {
           <img
             src={CompanyOne}
             alt="Netflix Logo"
-            className="w-[200px] h-[100px] object-contain "
+            className="w-[200px] h-[100px] object-contain duration-300 transform hover:scale-[1.2]"
           />
         </SwiperSlide>
         <SwiperSlide>
           <img
             src={CompanyTwo}
             alt="Reddit Logo"
-            className="w-[200px] h-[100px] object-contain "
+            className="w-[200px] h-[100px] object-contain duration-300 transform hover:scale-[1.2]"
           />
         </SwiperSlide>
         <SwiperSlide>
           <img
             src={CompanyThree}
             alt="Amazon Logo"
-            className="w-[200px] h-[100px] object-contain "
+            className="w-[200px] h-[100px] object-contain duration-300 transform hover:scale-[1.2]"
           />
         </SwiperSlide>
         <SwiperSlide>
           <img
             src={CompanyFour}
             alt="Discord Logo"
-            className="w-[200px] h-[100px] object-contain "
+            className="w-[200px] h-[100px] object-contain duration-300 transform hover:scale-[1.2]"
           />
         </SwiperSlide>
         <SwiperSlide>
           <img
             src={CompanyFive}
             alt="Spotify Logo"
-            className="w-[200px] h-[100px] object-contain "
+            className="w-[200px] h-[100px] object-contain duration-300 transform hover:scale-[1.2]"
           />
         </SwiperSlide>
         <SwiperSlide>
           <img
             src={CompanySix}
             alt="Nasa Logo"
-            className="w-[200px] h-[100px] object-contain "
+            className="w-[200px] h-[100px] object-contain duration-300 transform hover:scale-[1.2]"
           />
         </SwiperSlide>
         <SwiperSlide>
           <img
             src={CompanySeven}
             alt="Newegg Logo"
-            className="w-[200px] h-[100px] object-contain "
+            className="w-[200px] h-[100px] object-contain duration-300 transform hover:scale-[1.2]"
           />
         </SwiperSlide>
 
@@ -90,14 +90,14 @@ function CompaniesList() {
           <img
             src={CompanyNine}
             alt="SpaceX Logo"
-            className="w-[200px] h-[100px] object-contain "
+            className="w-[200px] h-[100px] object-contain duration-300 transform hover:scale-[1.2]"
           />
         </SwiperSlide>
         <SwiperSlide>
           <img
             src={CompanyTeen}
             alt="RSI Logo"
-            className="w-[200px] h-[100px] object-contain "
+            className="w-[200px] h-[100px] object-contain duration-300 transform hover:scale-[1.2]"
           />
         </SwiperSlide>
       </Swiper>
