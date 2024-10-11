@@ -6,7 +6,7 @@ import { useIntl } from "react-intl";
 function TestimonialsSection() {
   const intl = useIntl();
   return (
-    <div className="flex flex-col items-center justify-center mb-8 pb-8">
+    <div className="flex flex-col items-center justify-center mb-8 pb-8 ">
       <div className="flex justify-center flex-col text-center w-[500px]">
         <SectionTitle title={intl.formatMessage({id: "Testimonials.title"})} />
         <SectionSubtitle
